@@ -1,2 +1,2 @@
 print("haha")
-print("nieuwe lijn vanuit github")
+print("dit is de basis van github")
